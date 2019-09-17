@@ -1,25 +1,25 @@
 # Collecting the Public’s Perception of AI and Robot Rights
 
-Guildline for interpreting statments for the experiment.
+Guidelines for understanding the declarative statements presented to participants.
 
 ## 1. Agent
-1. AI
-2. Robot
+- <b>AI</b>
+- <b>Robot</b>
 
-## 2. Form
+## 2. Level of Autonomy
 We present robots and AI in two different forms.
-- Normal : Merely calling them as AI and robot / (e.g., 'AI programs' / 'Robots')
-- Autonomous: Introducing AI and robots as explicitly entirely autonomous  / (e.g., 'completely autonomous AI programs','completely autonomous robots')
+- <b>Standard</b>: Merely calling them AI and robots (i.e., 'AI programs', 'robots')
+- <b>Autonomous</b>: Explicitly introducing AI and robots as completely autonomous  (i.e., 'completely autonomous AI programs', 'completely autonomous robots')
 
 ## 3. Phrasing Style
-For reducing bias by the words, we employed three different styles that were randomly assigned to each participant.
+To reduce wording bias, we employed three different styles that were randomly assigned to each participant and right.
 - <b>Indirect</b>: Electronic agents (i.e., AI or robot) appear as the object of the statement (e.g., "No one should be able to turn off or kill AI programs.").
 - <b>Direct</b>: Electronic agents are the subject of the sentence (e.g., "Robots should receive payment for their work."). 
 - <b>Explicit</b>: A variant of the second form, where the word "right" is explicitly used (e.g., "Robots should have the right to be paid for their work.").
 
-## 4. AI and Robot's Right
+## 4. AI and Robot Rights
 
-There are <b>11</b> rights for AI and robots. They are divided by 3 cartegories.
+We tackle <b>11</b> rights for AI and robots. They are divided into 3 categories.
 1. Related to Legal Boundaries
     - Right to Sue and Be Sued
         - (Agent) should be able to sue and be sued for injuries and damages
@@ -41,7 +41,7 @@ There are <b>11</b> rights for AI and robots. They are divided by 3 cartegories.
 2. Related to Societal Boundaries
     - Right to Freedom of Speech
         - (Agent) should be able to express any opinions without censorship or restraint
-        - No censorship or retaliation should be exerted on (Agent) opinion and speech
+        - No censorship or retaliation should be exerted on (Agent)' opinion and speech
         - (Agent) should have the right to freedom of speech
     - Right to Nationality
         - (Agent) can have a nationality
@@ -77,13 +77,13 @@ There are <b>11</b> rights for AI and robots. They are divided by 3 cartegories.
 "Completely autonomous AI programs should be able to possess assets"
 - Right: Right to Hold Assets
 - Agent: AI
-- Form: Autonomous
+- Level of Autonomy: Autonomous
 - Phrasing Style: Direct
 
-"No censorship or retaliation should be exerted on Robot opinion and speech"
+"No censorship or retaliation should be exerted on robots' opinion and speech"
 - Right: Right to Freedom of Speech
 - Agent: Robot
-- Form: Normal
+- Level of Autonomy: Standard
 - Phrasing Style: Indirect
 
 ``` 
