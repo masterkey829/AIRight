@@ -56,7 +56,7 @@ We tackle <b>11</b> rights for AI and robots. They are divided into 3 categories
         - Everyone should provide remuneration to (Agent) for their work
         - (Agent) should have the right to receive payment for their work
 
-3. Related to Personal Boundariesㅍ
+3. Related to Personal Boundaries
     - Right to Privacy
         - (Agent) should have their privacy protected
         - No one can invade the privacy of (Agent)
